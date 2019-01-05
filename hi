@@ -1,0 +1,3 @@
+password=input ('what is your password')
+if password==apples
+  print('yay')
